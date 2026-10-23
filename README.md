@@ -2,7 +2,7 @@
 
 > A collection of concise, battle-tested write-ups on commands, systems architecture, and engineering discipline.
 
-**Total TILs documented:** `10`
+**Total TILs documented:** `15`
 
 ---
 
@@ -11,8 +11,9 @@
 - [Architecture & Taxonomy](#arch) (`2`)
 - [Bash & Shell Scripting](#bash) (`2`)
 - [Git Discipline & Version Control](#git) (`1`)
-- [Linux Administration & Storage](#linux) (`3`)
-- [Termux & Android POSIX](#termux) (`2`)
+- [Linux Administration & Storage](#linux) (`6`)
+- [Python & Data Processing](#python) (`1`)
+- [Termux & Android POSIX](#termux) (`3`)
 
 ---
 
@@ -37,14 +38,23 @@
 ### Linux Administration & Storage
 
 - [Atomic Audit Trail Logging for Filesystem Mutations](linux/atomic-audit-trail-logging.md)
+- [Direct Google Drive Metadata Inspection via Rclone Backend Query](linux/rclone-backend-query-api.md)
 - [Zero-Download Remote Auditing and Safe Deduplication with Rclone](linux/rclone-cloud-remote-auditing.md)
+- [Cross-Provider Transfer Limits and Host Proxy Streaming in Rclone](linux/rclone-cross-provider-transfer-limits.md)
+- [Google Drive Shared Drive Permission Barriers and Authoritative Owner Routing](linux/rclone-permission-ownership-barriers.md)
 - [Rsync vs MV for Mass Transfers and Safe Migration](linux/rsync-vs-mv-large-transfers.md)
+
+<a id="python"></a>
+### Python & Data Processing
+
+- [Cross-Remote Content Hashing and Offline Deduplication with Python](python/cross-remote-md5-deduplication.md)
 
 <a id="termux"></a>
 ### Termux & Android POSIX
 
 - [Portable Shebangs in Android Termux ARM64 Environments](termux/arm64-portable-shebangs.md)
 - [Termux Extra Keys Layout Restoration and Instant Reload](termux/termux-extra-keys-configuration.md)
+- [Terminal Multiplexer Session Persistence and Dual-Pane Monitoring on Android](termux/tmux-session-persistence-splits.md)
 
 ---
 
