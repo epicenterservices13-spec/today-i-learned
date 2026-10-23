@@ -2,17 +2,17 @@
 
 > A collection of concise, battle-tested write-ups on commands, systems architecture, and engineering discipline.
 
-**Total TILs documented:** `5`
+**Total TILs documented:** `10`
 
 ---
 
 ## Categories
 
-- [Architecture & Taxonomy](#arch) (`1`)
-- [Bash & Shell Scripting](#bash) (`1`)
+- [Architecture & Taxonomy](#arch) (`2`)
+- [Bash & Shell Scripting](#bash) (`2`)
 - [Git Discipline & Version Control](#git) (`1`)
-- [Linux Administration & Storage](#linux) (`1`)
-- [Termux & Android POSIX](#termux) (`1`)
+- [Linux Administration & Storage](#linux) (`3`)
+- [Termux & Android POSIX](#termux) (`2`)
 
 ---
 
@@ -20,11 +20,13 @@
 ### Architecture & Taxonomy
 
 - [Zero Root Clutter via Johnny Decimal Governance](arch/johnny-decimal-root-governance.md)
+- [Universal Johnny Decimal Taxonomy Across PRoot Containers](arch/proot-distro-taxonomy-synchronization.md)
 
 <a id="bash"></a>
 ### Bash & Shell Scripting
 
 - [Fail-Fast Shell Scripts with set -euo pipefail](bash/safe-shell-pipelines.md)
+- [Standard Stream Redirection and /dev/null Descriptor Mechanics](bash/stream-redirection-dev-null.md)
 
 <a id="git"></a>
 ### Git Discipline & Version Control
@@ -35,11 +37,14 @@
 ### Linux Administration & Storage
 
 - [Atomic Audit Trail Logging for Filesystem Mutations](linux/atomic-audit-trail-logging.md)
+- [Zero-Download Remote Auditing and Safe Deduplication with Rclone](linux/rclone-cloud-remote-auditing.md)
+- [Rsync vs MV for Mass Transfers and Safe Migration](linux/rsync-vs-mv-large-transfers.md)
 
 <a id="termux"></a>
 ### Termux & Android POSIX
 
 - [Portable Shebangs in Android Termux ARM64 Environments](termux/arm64-portable-shebangs.md)
+- [Termux Extra Keys Layout Restoration and Instant Reload](termux/termux-extra-keys-configuration.md)
 
 ---
 
