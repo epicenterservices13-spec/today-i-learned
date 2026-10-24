@@ -2,7 +2,7 @@
 
 > A collection of concise, battle-tested write-ups on commands, systems architecture, and engineering discipline.
 
-**Total TILs documented:** `23`
+**Total TILs documented:** `25`
 
 ---
 
@@ -11,9 +11,9 @@
 - [Architecture & Taxonomy](#arch) (`3`)
 - [Bash & Shell Scripting](#bash) (`3`)
 - [Git Discipline & Version Control](#git) (`2`)
-- [Linux Administration & Storage](#linux) (`7`)
+- [Linux Administration & Storage](#linux) (`8`)
 - [Python & Data Processing](#python) (`1`)
-- [Termux & Android POSIX](#termux) (`7`)
+- [Termux & Android POSIX](#termux) (`8`)
 
 ---
 
@@ -45,6 +45,7 @@
 - [Zero-Download Remote Auditing and Safe Deduplication with Rclone](linux/rclone-cloud-remote-auditing.md)
 - [Cross-Provider Transfer Limits and Host Proxy Streaming in Rclone](linux/rclone-cross-provider-transfer-limits.md)
 - [Google Drive Shared Drive Permission Barriers and Authoritative Owner Routing](linux/rclone-permission-ownership-barriers.md)
+- [Diagnosing SSH Reverse Tunnel Connection Resets (kex_exchange_identification)](linux/reverse-tunnel-connection-reset.md)
 - [Rsync vs MV for Mass Transfers and Safe Migration](linux/rsync-vs-mv-large-transfers.md)
 - [SSH Port Forwarding Syntax & Tunneling Flags](linux/ssh-port-forwarding-syntax-flags.md)
 
@@ -59,6 +60,7 @@
 - [Android Developer Options and Phantom Process Mitigation](termux/android-developer-options-phantom-processes.md)
 - [Android Root Privileges, Kernel Sovereignty, and Threat Vectors](termux/android-root-privileges-and-threat-vectors.md)
 - [Portable Shebangs in Android Termux ARM64 Environments](termux/arm64-portable-shebangs.md)
+- [Deploying OpenAI Codex CLI in PRoot Ubuntu Containers on Android](termux/codex-cli-in-proot-ubuntu.md)
 - [Hardware Interfacing via Termux:API](termux/termux-api-hardware-control.md)
 - [Termux Extra Keys Layout Restoration and Instant Reload](termux/termux-extra-keys-configuration.md)
 - [Physical Keyboard Navigation in Termux and Byobu](termux/termux-physical-keyboard-and-byobu-shortcuts.md)
