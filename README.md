@@ -2,15 +2,15 @@
 
 > A collection of concise, battle-tested write-ups on commands, systems architecture, and engineering discipline.
 
-**Total TILs documented:** `15`
+**Total TILs documented:** `17`
 
 ---
 
 ## Categories
 
-- [Architecture & Taxonomy](#arch) (`2`)
+- [Architecture & Taxonomy](#arch) (`3`)
 - [Bash & Shell Scripting](#bash) (`2`)
-- [Git Discipline & Version Control](#git) (`1`)
+- [Git Discipline & Version Control](#git) (`2`)
 - [Linux Administration & Storage](#linux) (`6`)
 - [Python & Data Processing](#python) (`1`)
 - [Termux & Android POSIX](#termux) (`3`)
@@ -22,6 +22,7 @@
 
 - [Zero Root Clutter via Johnny Decimal Governance](arch/johnny-decimal-root-governance.md)
 - [Universal Johnny Decimal Taxonomy Across PRoot Containers](arch/proot-distro-taxonomy-synchronization.md)
+- [TIL vs. Learning Journal Cognitive Taxonomy](arch/til-vs-learning-journal-taxonomy.md)
 
 <a id="bash"></a>
 ### Bash & Shell Scripting
@@ -33,6 +34,7 @@
 ### Git Discipline & Version Control
 
 - [Single-File Atomic Commits in Git](git/atomic-commits-per-file.md)
+- [GitHub CLI Multi-Account Token Management](git/gh-cli-multi-account-tokens.md)
 
 <a id="linux"></a>
 ### Linux Administration & Storage
