@@ -2,7 +2,7 @@
 
 > A collection of concise, battle-tested write-ups on commands, systems architecture, and engineering discipline.
 
-**Total TILs documented:** `17`
+**Total TILs documented:** `21`
 
 ---
 
@@ -13,7 +13,7 @@
 - [Git Discipline & Version Control](#git) (`2`)
 - [Linux Administration & Storage](#linux) (`6`)
 - [Python & Data Processing](#python) (`1`)
-- [Termux & Android POSIX](#termux) (`3`)
+- [Termux & Android POSIX](#termux) (`7`)
 
 ---
 
@@ -54,8 +54,12 @@
 <a id="termux"></a>
 ### Termux & Android POSIX
 
+- [Android Developer Options and Phantom Process Mitigation](termux/android-developer-options-phantom-processes.md)
+- [Android Root Privileges, Kernel Sovereignty, and Threat Vectors](termux/android-root-privileges-and-threat-vectors.md)
 - [Portable Shebangs in Android Termux ARM64 Environments](termux/arm64-portable-shebangs.md)
+- [Hardware Interfacing via Termux:API](termux/termux-api-hardware-control.md)
 - [Termux Extra Keys Layout Restoration and Instant Reload](termux/termux-extra-keys-configuration.md)
+- [Physical Keyboard Navigation in Termux and Byobu](termux/termux-physical-keyboard-and-byobu-shortcuts.md)
 - [Terminal Multiplexer Session Persistence and Dual-Pane Monitoring on Android](termux/tmux-session-persistence-splits.md)
 
 ---
