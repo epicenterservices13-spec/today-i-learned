@@ -2,7 +2,7 @@
 
 > A collection of concise, battle-tested write-ups on commands, systems architecture, and engineering discipline.
 
-**Total TILs documented:** `21`
+**Total TILs documented:** `22`
 
 ---
 
@@ -11,7 +11,7 @@
 - [Architecture & Taxonomy](#arch) (`3`)
 - [Bash & Shell Scripting](#bash) (`2`)
 - [Git Discipline & Version Control](#git) (`2`)
-- [Linux Administration & Storage](#linux) (`6`)
+- [Linux Administration & Storage](#linux) (`7`)
 - [Python & Data Processing](#python) (`1`)
 - [Termux & Android POSIX](#termux) (`7`)
 
@@ -45,6 +45,7 @@
 - [Cross-Provider Transfer Limits and Host Proxy Streaming in Rclone](linux/rclone-cross-provider-transfer-limits.md)
 - [Google Drive Shared Drive Permission Barriers and Authoritative Owner Routing](linux/rclone-permission-ownership-barriers.md)
 - [Rsync vs MV for Mass Transfers and Safe Migration](linux/rsync-vs-mv-large-transfers.md)
+- [SSH Port Forwarding Syntax & Tunneling Flags](linux/ssh-port-forwarding-syntax-flags.md)
 
 <a id="python"></a>
 ### Python & Data Processing
