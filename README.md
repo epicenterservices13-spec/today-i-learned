@@ -2,14 +2,14 @@
 
 > A collection of concise, battle-tested write-ups on commands, systems architecture, and engineering discipline.
 
-**Total TILs documented:** `22`
+**Total TILs documented:** `23`
 
 ---
 
 ## Categories
 
 - [Architecture & Taxonomy](#arch) (`3`)
-- [Bash & Shell Scripting](#bash) (`2`)
+- [Bash & Shell Scripting](#bash) (`3`)
 - [Git Discipline & Version Control](#git) (`2`)
 - [Linux Administration & Storage](#linux) (`7`)
 - [Python & Data Processing](#python) (`1`)
@@ -29,6 +29,7 @@
 
 - [Fail-Fast Shell Scripts with set -euo pipefail](bash/safe-shell-pipelines.md)
 - [Standard Stream Redirection and /dev/null Descriptor Mechanics](bash/stream-redirection-dev-null.md)
+- [Terminal Screen Erasure & Buffer Hygiene (`clear`)](bash/terminal-clear-scrollback-hygiene.md)
 
 <a id="git"></a>
 ### Git Discipline & Version Control
