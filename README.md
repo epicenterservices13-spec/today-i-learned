@@ -2,7 +2,7 @@
 
 > A collection of concise, battle-tested write-ups on commands, systems architecture, and engineering discipline.
 
-**Total TILs documented:** `25`
+**Total TILs documented:** `26`
 
 ---
 
@@ -13,7 +13,7 @@
 - [Git Discipline & Version Control](#git) (`2`)
 - [Linux Administration & Storage](#linux) (`8`)
 - [Python & Data Processing](#python) (`1`)
-- [Termux & Android POSIX](#termux) (`8`)
+- [Termux & Android POSIX](#termux) (`9`)
 
 ---
 
@@ -57,6 +57,7 @@
 <a id="termux"></a>
 ### Termux & Android POSIX
 
+- [AI Video Upscaling with PixelFlow CLI and Real-ESRGAN in PRoot Ubuntu](termux/pixelflow-cli-video-upscaling.md)
 - [Android Developer Options and Phantom Process Mitigation](termux/android-developer-options-phantom-processes.md)
 - [Android Root Privileges, Kernel Sovereignty, and Threat Vectors](termux/android-root-privileges-and-threat-vectors.md)
 - [Portable Shebangs in Android Termux ARM64 Environments](termux/arm64-portable-shebangs.md)
