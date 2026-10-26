@@ -2,18 +2,18 @@
 
 > A collection of concise, battle-tested write-ups on commands, systems architecture, and engineering discipline.
 
-**Total TILs documented:** `26`
+**Total TILs documented:** `29`
 
 ---
 
 ## Categories
 
 - [Architecture & Taxonomy](#arch) (`3`)
-- [Bash & Shell Scripting](#bash) (`3`)
+- [Bash & Shell Scripting](#bash) (`4`)
 - [Git Discipline & Version Control](#git) (`2`)
-- [Linux Administration & Storage](#linux) (`8`)
+- [Linux Administration & Storage](#linux) (`9`)
 - [Python & Data Processing](#python) (`1`)
-- [Termux & Android POSIX](#termux) (`9`)
+- [Termux & Android POSIX](#termux) (`10`)
 
 ---
 
@@ -27,6 +27,7 @@
 <a id="bash"></a>
 ### Bash & Shell Scripting
 
+- [4K HEVC Video Scaling with Lanczos and Unsharp Filtering](bash/ffmpeg-lanczos-hevc-video-upscaling.md)
 - [Fail-Fast Shell Scripts with set -euo pipefail](bash/safe-shell-pipelines.md)
 - [Standard Stream Redirection and /dev/null Descriptor Mechanics](bash/stream-redirection-dev-null.md)
 - [Terminal Screen Erasure & Buffer Hygiene (`clear`)](bash/terminal-clear-scrollback-hygiene.md)
@@ -41,6 +42,7 @@
 ### Linux Administration & Storage
 
 - [Atomic Audit Trail Logging for Filesystem Mutations](linux/atomic-audit-trail-logging.md)
+- [Asymmetric Remote Compute via Google Colab Model Context Protocol](linux/colab-mcp-asymmetric-cloud-offload.md)
 - [Direct Google Drive Metadata Inspection via Rclone Backend Query](linux/rclone-backend-query-api.md)
 - [Zero-Download Remote Auditing and Safe Deduplication with Rclone](linux/rclone-cloud-remote-auditing.md)
 - [Cross-Provider Transfer Limits and Host Proxy Streaming in Rclone](linux/rclone-cross-provider-transfer-limits.md)
@@ -57,11 +59,12 @@
 <a id="termux"></a>
 ### Termux & Android POSIX
 
-- [AI Video Upscaling with PixelFlow CLI and Real-ESRGAN in PRoot Ubuntu](termux/pixelflow-cli-video-upscaling.md)
 - [Android Developer Options and Phantom Process Mitigation](termux/android-developer-options-phantom-processes.md)
 - [Android Root Privileges, Kernel Sovereignty, and Threat Vectors](termux/android-root-privileges-and-threat-vectors.md)
 - [Portable Shebangs in Android Termux ARM64 Environments](termux/arm64-portable-shebangs.md)
 - [Deploying OpenAI Codex CLI in PRoot Ubuntu Containers on Android](termux/codex-cli-in-proot-ubuntu.md)
+- [Offline CPU Voice Synthesis with Pocket-TTS in PRoot ARM64](termux/offline-pocket-tts-synthesis.md)
+- [AI Video Upscaling with PixelFlow CLI and Real-ESRGAN in PRoot Ubuntu](termux/pixelflow-cli-video-upscaling.md)
 - [Hardware Interfacing via Termux:API](termux/termux-api-hardware-control.md)
 - [Termux Extra Keys Layout Restoration and Instant Reload](termux/termux-extra-keys-configuration.md)
 - [Physical Keyboard Navigation in Termux and Byobu](termux/termux-physical-keyboard-and-byobu-shortcuts.md)
