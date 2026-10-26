@@ -5,3 +5,13 @@ __pycache__/
 .venv/
 *.tmp
 *.swp
+
+# Auto-added standard ignore patterns
+node_modules/
+target/
+dist/
+build/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.cache/
