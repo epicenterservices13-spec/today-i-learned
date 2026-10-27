@@ -2,13 +2,13 @@
 
 > A collection of concise, battle-tested write-ups on commands, systems architecture, and engineering discipline.
 
-**Total TILs documented:** `29`
+**Total TILs documented:** `30`
 
 ---
 
 ## Categories
 
-- [Architecture & Taxonomy](#arch) (`3`)
+- [Architecture & Taxonomy](#arch) (`4`)
 - [Bash & Shell Scripting](#bash) (`4`)
 - [Git Discipline & Version Control](#git) (`2`)
 - [Linux Administration & Storage](#linux) (`9`)
@@ -20,6 +20,7 @@
 <a id="arch"></a>
 ### Architecture & Taxonomy
 
+- [Antigravity Agent Discovery and Custom Rule Precedence](arch/antigravity-agent-discovery-and-rule-hierarchy.md)
 - [Zero Root Clutter via Johnny Decimal Governance](arch/johnny-decimal-root-governance.md)
 - [Universal Johnny Decimal Taxonomy Across PRoot Containers](arch/proot-distro-taxonomy-synchronization.md)
 - [TIL vs. Learning Journal Cognitive Taxonomy](arch/til-vs-learning-journal-taxonomy.md)
