@@ -2,14 +2,14 @@
 
 > A collection of concise, battle-tested write-ups on commands, systems architecture, and engineering discipline.
 
-**Total TILs documented:** `32`
+**Total TILs documented:** `34`
 
 ---
 
 ## Categories
 
 - [Architecture & Taxonomy](#arch) (`4`)
-- [Bash & Shell Scripting](#bash) (`4`)
+- [Bash & Shell Scripting](#bash) (`6`)
 - [Git Discipline & Version Control](#git) (`2`)
 - [Linux Administration & Storage](#linux) (`9`)
 - [Python & Data Processing](#python) (`1`)
@@ -29,6 +29,8 @@
 ### Bash & Shell Scripting
 
 - [4K HEVC Video Scaling with Lanczos and Unsharp Filtering](bash/ffmpeg-lanczos-hevc-video-upscaling.md)
+- [FFmpeg Dynamic Bitrate Math and Stream-Copy Video Slicing for Size Constraints](bash/ffmpeg-size-constrained-video-slicing.md)
+- [Industrial Start-Stop and Emergency Stop (E-STOP) Architecture for CLI Process Groups](bash/industrial-estop-cli-process-control.md)
 - [Fail-Fast Shell Scripts with set -euo pipefail](bash/safe-shell-pipelines.md)
 - [Standard Stream Redirection and /dev/null Descriptor Mechanics](bash/stream-redirection-dev-null.md)
 - [Terminal Screen Erasure & Buffer Hygiene (`clear`)](bash/terminal-clear-scrollback-hygiene.md)
