@@ -2,18 +2,18 @@
 
 > A collection of concise, battle-tested write-ups on commands, systems architecture, and engineering discipline.
 
-**Total TILs documented:** `34`
+**Total TILs documented:** `36`
 
 ---
 
 ## Categories
 
-- [Architecture & Taxonomy](#arch) (`4`)
+- [Architecture & Taxonomy](#arch) (`5`)
 - [Bash & Shell Scripting](#bash) (`6`)
 - [Git Discipline & Version Control](#git) (`2`)
 - [Linux Administration & Storage](#linux) (`9`)
 - [Python & Data Processing](#python) (`1`)
-- [Termux & Android POSIX](#termux) (`12`)
+- [Termux & Android POSIX](#termux) (`13`)
 
 ---
 
@@ -21,6 +21,7 @@
 ### Architecture & Taxonomy
 
 - [Antigravity Agent Discovery and Custom Rule Precedence](arch/antigravity-agent-discovery-and-rule-hierarchy.md)
+- [Asymmetric Cloud Media Chunking via Colab Drive Mount](arch/asymmetric-cloud-metadata-chunking.md)
 - [Zero Root Clutter via Johnny Decimal Governance](arch/johnny-decimal-root-governance.md)
 - [Universal Johnny Decimal Taxonomy Across PRoot Containers](arch/proot-distro-taxonomy-synchronization.md)
 - [TIL vs. Learning Journal Cognitive Taxonomy](arch/til-vs-learning-journal-taxonomy.md)
@@ -69,6 +70,7 @@
 - [Deploying OpenAI Codex CLI in PRoot Ubuntu Containers on Android](termux/codex-cli-in-proot-ubuntu.md)
 - [Offline CPU Voice Synthesis with Pocket-TTS in PRoot ARM64](termux/offline-pocket-tts-synthesis.md)
 - [AI Video Upscaling with PixelFlow CLI and Real-ESRGAN in PRoot Ubuntu](termux/pixelflow-cli-video-upscaling.md)
+- [Dedicated PRoot Userspace Personas with Host Binding](termux/proot-distro-dedicated-userspace-personas.md)
 - [PRoot-Distro Architecture, Syscall Interception, and Execution Flags](termux/proot-distro-execution-mechanics-and-flags.md)
 - [Hardware Interfacing via Termux:API](termux/termux-api-hardware-control.md)
 - [Termux Extra Keys Layout Restoration and Instant Reload](termux/termux-extra-keys-configuration.md)
