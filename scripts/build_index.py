@@ -17,6 +17,7 @@ CATEGORY_TITLES = {
     "linux": "Linux Administration & Storage",
     "termux": "Termux & Android POSIX",
     "python": "Python & Data Processing",
+    "web": "Web Standards & UI Architecture",
 }
 
 
