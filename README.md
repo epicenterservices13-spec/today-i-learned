@@ -2,7 +2,7 @@
 
 > A collection of concise, battle-tested write-ups on commands, systems architecture, and engineering discipline.
 
-**Total TILs documented:** `36`
+**Total TILs documented:** `38`
 
 ---
 
@@ -14,6 +14,7 @@
 - [Linux Administration & Storage](#linux) (`9`)
 - [Python & Data Processing](#python) (`1`)
 - [Termux & Android POSIX](#termux) (`13`)
+- [Web Standards & UI Architecture](#web) (`2`)
 
 ---
 
@@ -76,6 +77,12 @@
 - [Termux Extra Keys Layout Restoration and Instant Reload](termux/termux-extra-keys-configuration.md)
 - [Physical Keyboard Navigation in Termux and Byobu](termux/termux-physical-keyboard-and-byobu-shortcuts.md)
 - [Terminal Multiplexer Session Persistence and Dual-Pane Monitoring on Android](termux/tmux-session-persistence-splits.md)
+
+<a id="web"></a>
+### Web Standards & UI Architecture
+
+- [MPA Cross-Document View Transitions and Scroll-Driven Snap Carousels](web/mpa-view-transitions-and-scroll-driven-carousels.md)
+- [Native Dialog Light-Dismiss and Top-Layer Discrete Transitions](web/native-dialog-light-dismiss-and-discrete-transitions.md)
 
 ---
 
